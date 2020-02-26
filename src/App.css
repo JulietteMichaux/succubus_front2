@@ -1,0 +1,34 @@
+img { 
+  max-width: 100%;
+}
+
+.App {
+  display: grid;
+  height: 100vh;
+  grid-template-areas: 
+    'head' 
+    'main' 
+    'foot';
+  grid-template-columns: auto;
+  grid-template-rows: auto 1fr auto;
+  font-family: 'Ubuntu';
+  color: white;
+  min-width: 100%;
+}
+
+.header {
+  grid-area: head;
+  position: fixed;
+  min-width: 100%;
+  z-index: 1000;
+}
+
+.main {
+  grid-area: main;
+  padding-top: 100px;
+  background-image: linear-gradient(to bottom right, #7F2AED, #CA2AED, #F77684  );
+}
+
+.footer {
+  grid-area: foot;
+}

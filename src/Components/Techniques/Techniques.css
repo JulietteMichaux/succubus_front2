@@ -1,0 +1,21 @@
+.textPageTechn {
+  text-align: justify;
+}
+
+.ensavoirplus {
+  background-color: rgb(69, 224, 165);
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+  padding: 15px 10px;
+}
+
+.rowTech {
+  background-color:white;
+  color: rgb(149, 42, 179);
+  margin: 8px 200px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+

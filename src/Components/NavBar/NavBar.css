@@ -1,0 +1,67 @@
+ /* NAVBAR-------------------------------------------------------------------- */
+ .navBar {
+  font-size: 20px;
+ }
+
+ .navBar ul {
+  list-style-type: none;
+} 
+
+.navBar li {
+  margin: 40px 30px;
+  padding: 5px 15px;
+  border-left: solid 5px  darkorchid;
+  border-right: solid 5px darkorchid;
+  display: inline-block;
+}
+
+.navBar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.navBar a.active-link {
+  border-bottom: 3px solid #2AEDCA ; 
+  text-decoration-style: solid;
+} 
+
+.navBar li a:hover {
+  border-bottom: 5px solid #2AEDCA; 
+  text-decoration-style: solid;
+  transition: all ease-in-out 200ms;
+}
+
+/* REDUCEDNAVBAR----------------------------------------------------------------- */
+
+.reducedNavBar {
+  flex-grow: 1;
+  background: #1C2630;
+}
+
+.reducedNavBar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 12px;
+  margin: 0 5px;
+}
+
+.reducedNavBar a.active-link {
+  border-bottom: 3px solid #2AEDCA; 
+  text-decoration-style: solid;
+} 
+
+.reducedNavBar a:hover {
+  border-bottom: 4px solid #2AEDCA; 
+  text-decoration-style: none;
+  transition: all ease-in-out 200ms;
+}
+
+.logoSuccubusReduced img {
+  height: 65px;
+}
+
+a.logoSuccubusReduced:hover{
+  border-bottom: none;
+}

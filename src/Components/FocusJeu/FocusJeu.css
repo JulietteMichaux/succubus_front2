@@ -1,0 +1,75 @@
+.rowBoutonPortfFocusJeu {
+  margin: 30px 0;
+}
+
+.contJeu {
+  background-color: white;
+  border-radius: 21px;
+}
+
+.contJeu:hover {
+  -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+  box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.colImagePrincipaleFocusJeu {
+  padding: 0;
+  border-top-left-radius: 20px;
+}
+
+.imagePrincipale {
+  border-radius: 20px;
+  max-height: 300px;
+}
+
+.titleJeu {
+  color: #7F2AED;
+  text-align: center;
+}
+
+.contJeu h3, .contJeu h4, .contJeu p {
+  color: black;
+}
+
+.rowsSpecificities h4 {
+  color: #7F2AED;
+}
+
+.rowsSpecificities p {
+  text-align: center;
+}
+
+.jouer {
+  color: white;
+  border-radius: 50px;
+  border: none;
+  padding: 20px 25px;
+  background-color: #2AEDCA;
+  font-size: 15px;
+  margin: 17px 0 0 0;
+}
+
+.rowPortbouton {
+  margin: 25px 0;
+}
+
+.excerpt {
+  font-weight: bold;
+}
+
+.image-gallery-thumbnails-container {
+  height: 70px;
+  width: 50px;
+}
+
+.image-gallery-thumbnail-inner {
+  height: 70px;
+  width: 50px;
+}
+
+/* .slick-track  {
+  max-width: 576px !important;
+  transform: translate3d(-544px, 0px, 0px);
+  opacity:1;
+} */

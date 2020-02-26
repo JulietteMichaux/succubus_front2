@@ -1,0 +1,29 @@
+.image-gallery-slide img {
+  width: 100%;
+  max-height: 380px
+}
+
+.slide {
+  height: 380px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.thumb {
+  height: 65px;
+}
+
+.slide video {
+  width: 100%;
+  height: 100%;
+}
+
+.slick-arrow.slick-prev, .slick-arrow.slick-next {
+  background-color: #2AEDCA;
+  font-size: 20px;
+  line-height: 1;
+  opacity: 1;
+  border-radius: 60px;
+}
+

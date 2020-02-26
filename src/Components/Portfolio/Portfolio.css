@@ -1,0 +1,86 @@
+.buttonFocusJeu {
+  border-radius: 50px;
+  background-color: darkturquoise;
+  border: none;
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+  padding: 20px 25px;
+}
+
+.textPortF {
+  text-align: justify;
+}
+
+.rowCardPortf {
+  display: flex;
+  align-items: flex-start;
+  max-height: 250px;
+  background-color: rgba(124, 206, 158, 0.678);
+  margin: 10px 0;
+  border-radius: 41px;
+  overflow-y: hidden;
+}
+
+.rowCardPortf:hover {
+  -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+  box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.colImageJeu {
+  padding: 0;
+}
+
+.imgCardPortf {
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-right: 0px;
+  padding-left: 0px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+}
+
+.titleCardPortf {
+  text-align: center;
+  color: #7F2AED;
+}
+
+.textCardPortf {
+  color: black;
+  padding: 0 10px;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.smallCard {
+  background-color:rgba(86, 88, 228, 0.678);
+  border-radius: 41px 10px;
+  margin: 10px 20px;
+  overflow-y: hidden;
+}
+
+.smallCardImg {
+  border-radius: 42px 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.smallCard:hover {
+  box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.smallCardTitle {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 800px)
+{
+  .smallCard {
+  max-height: 120px;
+  }
+}

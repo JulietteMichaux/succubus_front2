@@ -1,0 +1,48 @@
+.divmap,
+.leaflet-container {
+  width: 400px;
+  height: 270px;
+  padding: 13px 0;
+}
+
+.divmap {
+  margin-bottom: 30px;
+}
+
+.newsletterContact {
+  background-color: indigo;
+  border-radius: 10px;
+  padding: 80px 80px 80px 80px;
+}
+
+.boutonNewsletter {
+  border-radius: 20px;
+  border: none;
+  padding: 4px 10px;
+  background: #2AEDCA;
+  margin: 10px 0;
+}
+
+.email input[type='text']{
+  margin: 10px 0;
+  font-family: 'Ubuntu';
+  border-radius: 20px;
+  border: none;
+  padding: 3px 20px;
+}
+
+.enveloppe {
+  margin: 5px 0 50px 0;
+}
+
+.labelInfos {
+ margin: 10px 0;
+}
+
+.rowAddressNewsletter {
+  margin: 40px;
+}
+
+.rowNetwork {
+  margin: 0;
+}

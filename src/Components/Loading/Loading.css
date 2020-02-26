@@ -1,0 +1,10 @@
+.load {
+  height: 61vh;
+}
+
+.ball-pulse-rise > div {
+ height: 40px;
+ width: 40px;
+ margin: 10px;
+ animation-duration: 2s;
+}

@@ -1,0 +1,36 @@
+
+h3, h2, h4, h5 {
+  font-family: 'Ubuntu';
+}
+
+.titleHome {
+  display: grid;
+  justify-content: center;
+  margin-top: 25px; 
+  font-family: 'Ubuntu';
+}
+
+.imageintro {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.rowqui {
+  background-color: indigo;
+}
+
+.header, .content {
+  display: flex;
+  justify-content: center;
+}
+
+label {
+  font-size: 15px; 
+}
+
+.introHome p {
+  text-align: justify;
+  padding: 0 0 10px 0;
+}

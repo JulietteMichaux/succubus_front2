@@ -1,0 +1,27 @@
+.divFocTech {
+  padding: 60px 0 0 0;
+}
+
+.fa {
+  font-size: 48px;
+  color: #2AEDCA;
+}
+
+.containerFocusTech {
+  /* background-color: lightslategrey; */
+  color: #2AEDCA;
+  padding: 0 0 0 8px;
+}
+
+p {
+  text-align: justify;
+}
+
+.titleFocusTechnique {
+  color: #2AEDCA;
+}
+
+.containerFocusTech h2 {
+  font-size: 40px;
+}
+

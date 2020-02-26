@@ -1,0 +1,56 @@
+.containerFooter {
+  font-size: 15px;
+  font-family: 'Ubuntu';
+  background-color: #1C2630;
+}
+
+.colAddressFooter {
+  font-size: 15px;
+}
+
+.colFormFooter {
+  background: indigo;
+  padding: 2px 0 25px 20px;
+  border-radius: 10px;
+}
+
+.colFormFooter h6 {
+  margin: 20px 0;
+}
+
+.colFormFooter input[type='text']{
+  margin: 10px 0;
+  font-family: 'Ubuntu';
+  border-radius: 20px;
+  border: none;
+  padding: 3px 20px;
+}
+
+.rowFooter {
+  padding: 50px 0;
+}
+
+.rowButtonFooter button {
+  border-radius: 20px;
+  border: none;
+  padding: 4px 10px;
+  background: #2AEDCA;
+}
+
+.rowButtonFooter {
+  margin: 5px 0;
+}
+
+.sizeImage {
+  height: 35px;
+  padding: 7px;
+}
+
+.logo {
+  height: 70px;
+}
+
+.rowLogo {
+  margin: 0 0;
+  padding: 0 0;
+}

@@ -1,0 +1,14 @@
+/* .page404 {
+  color: #2AEDCA;
+  font-size: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.page404 {
+  background-image: url('images/Page404-2.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+}

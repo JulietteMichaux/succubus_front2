@@ -1,0 +1,17 @@
+.propsText {
+  text-align: justify;
+  color: rgb(68, 107, 155);
+}
+
+.les4typesjeux {
+  color: rgb(146, 70, 221);
+}
+
+.contTypeJeux {
+  background-color: whitesmoke;
+}
+
+.colonneTextCard {
+  display: flex;
+  align-items: center;  
+}

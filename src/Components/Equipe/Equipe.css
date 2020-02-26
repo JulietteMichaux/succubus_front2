@@ -1,0 +1,16 @@
+.textphoto {
+  font-size: 34px;
+}
+
+.slickEquipe {
+  color: white;
+}
+
+.awssld {
+  --organic-arrow-color: white;
+}
+
+.awssld__content {
+  background-image: linear-gradient(to bottom right, #7F2AED, #CA2AED, #F77684  );
+}
+
